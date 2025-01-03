@@ -1,0 +1,24 @@
+2024-11-25 19:19:40,357 - Bangladesh Time - INFO - Script started at 2024-11-25 19:19:40 +06
+2024-11-25 19:19:40,357 - Bangladesh Time - INFO - Fetching dm+d releases (item ID: 24)...
+2024-11-25 19:19:40,357 - Bangladesh Time - INFO - Fetching releases from API
+2024-11-25 19:19:41,578 - Bangladesh Time - INFO - 
+Release Information:
+2024-11-25 19:19:41,578 - Bangladesh Time - INFO - Release ID: N/A
+2024-11-25 19:19:41,578 - Bangladesh Time - INFO - Release Date: 2024-11-25
+2024-11-25 19:19:41,578 - Bangladesh Time - INFO - File Name: nhsbsa_dmd_11.3.0_20241125000001.zip
+2024-11-25 19:19:42,448 - Bangladesh Time - INFO - File nhsbsa_dmd_11.3.0_20241125000001.zip is already up to date. Skipping download.
+2024-11-25 19:19:43,263 - Bangladesh Time - INFO - Starting download: trud_nhsbsa_dmd_11.3.0_20241125000001.xml
+2024-11-25 19:19:44,094 - Bangladesh Time - INFO - Successfully downloaded downloads/trud_nhsbsa_dmd_11.3.0_20241125000001.xml at 2024-11-25 19:19:44 +06
+2024-11-25 19:19:44,094 - Bangladesh Time - INFO - All downloads completed successfully at 2024-11-25 19:19:44 +06
+2024-11-25 21:15:04,309 - Bangladesh Time - INFO - Script started at 2024-11-25 21:15:04 +06
+2024-11-25 21:15:04,309 - Bangladesh Time - INFO - Fetching dm+d releases (item ID: 24)...
+2024-11-25 21:15:04,309 - Bangladesh Time - INFO - Fetching releases from API
+2024-11-25 21:15:05,611 - Bangladesh Time - INFO - 
+Release Information:
+2024-11-25 21:15:05,612 - Bangladesh Time - INFO - Release ID: N/A
+2024-11-25 21:15:05,612 - Bangladesh Time - INFO - Release Date: 2024-11-25
+2024-11-25 21:15:05,612 - Bangladesh Time - INFO - File Name: nhsbsa_dmd_11.3.0_20241125000001.zip
+2024-11-25 21:15:06,464 - Bangladesh Time - INFO - File nhsbsa_dmd_11.3.0_20241125000001.zip is already up to date. Skipping download.
+2024-11-25 21:15:07,272 - Bangladesh Time - INFO - Starting download: trud_nhsbsa_dmd_11.3.0_20241125000001.xml
+2024-11-25 21:15:08,128 - Bangladesh Time - INFO - Successfully downloaded downloads/trud_nhsbsa_dmd_11.3.0_20241125000001.xml at 2024-11-25 21:15:08 +06
+2024-11-25 21:15:08,128 - Bangladesh Time - INFO - All downloads completed successfully at 2024-11-25 21:15:08 +06

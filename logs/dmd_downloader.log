@@ -1,0 +1,12 @@
+2024-11-25 19:02:35,566 - INFO - Fetching dm+d releases (item ID: 24)...
+2024-11-25 19:02:35,566 - INFO - Fetching releases from API
+2024-11-25 19:02:36,793 - INFO - 
+Release Information:
+2024-11-25 19:02:36,793 - INFO - Release ID: N/A
+2024-11-25 19:02:36,793 - INFO - Release Date: 2024-11-25
+2024-11-25 19:02:36,793 - INFO - File Name: nhsbsa_dmd_11.3.0_20241125000001.zip
+2024-11-25 19:02:36,793 - INFO - Starting download: nhsbsa_dmd_11.3.0_20241125000001.zip
+2024-11-25 19:03:06,817 - INFO - Successfully downloaded: downloads/nhsbsa_dmd_11.3.0_20241125000001.zip
+2024-11-25 19:03:06,817 - INFO - Starting download: trud_nhsbsa_dmd_11.3.0_20241125000001.xml
+2024-11-25 19:03:07,628 - INFO - Successfully downloaded: downloads/trud_nhsbsa_dmd_11.3.0_20241125000001.xml
+2024-11-25 19:03:07,628 - INFO - All downloads completed successfully

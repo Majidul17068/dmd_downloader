@@ -1,0 +1,15 @@
+2025-01-03 21:03:07,514 - Bangladesh Time - INFO - Script started at 2025-01-03 21:03:07 +06
+2025-01-03 21:03:07,515 - Bangladesh Time - INFO - Fetching dm+d releases (item ID: 24)...
+2025-01-03 21:03:07,515 - Bangladesh Time - INFO - Fetching releases from API
+2025-01-03 21:03:08,690 - Bangladesh Time - INFO - 
+Release Information:
+2025-01-03 21:03:08,691 - Bangladesh Time - INFO - Release ID: N/A
+2025-01-03 21:03:08,691 - Bangladesh Time - INFO - Release Date: 2024-12-30
+2025-01-03 21:03:08,691 - Bangladesh Time - INFO - File Name: nhsbsa_dmd_1.0.0_20241230000001.zip
+2025-01-03 21:03:08,691 - Bangladesh Time - INFO - Starting download: nhsbsa_dmd_1.0.0_20241230000001.zip
+2025-01-03 21:03:41,086 - Bangladesh Time - INFO - Successfully downloaded downloads/nhsbsa_dmd_1.0.0_20241230000001.zip at 2025-01-03 21:03:41 +06
+2025-01-03 21:03:41,086 - Bangladesh Time - INFO - Extracting downloads/nhsbsa_dmd_1.0.0_20241230000001.zip to extracted/nhsbsa_dmd_1.0.0_20241230000001
+2025-01-03 21:03:41,435 - Bangladesh Time - INFO - Successfully extracted downloads/nhsbsa_dmd_1.0.0_20241230000001.zip at 2025-01-03 21:03:41 +06
+2025-01-03 21:03:41,436 - Bangladesh Time - INFO - Starting download: trud_nhsbsa_dmd_1.0.0_20241230000001.xml
+2025-01-03 21:03:42,219 - Bangladesh Time - INFO - Successfully downloaded downloads/trud_nhsbsa_dmd_1.0.0_20241230000001.xml at 2025-01-03 21:03:42 +06
+2025-01-03 21:03:42,219 - Bangladesh Time - INFO - All downloads and extractions completed successfully at 2025-01-03 21:03:42 +06
